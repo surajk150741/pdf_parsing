@@ -1,7 +1,8 @@
-Macroeconomic PDF Parsing & Search System
-Automated Financial Document Extraction + Search System Architecture (Hiring Task Solution)
+**Macroeconomic PDF Parsing & Search System
+Automated Financial Document Extraction + Search System Architecture (Hiring Task Solution)**
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" /> <img src="https://img.shields.io/badge/Parsing-PDFplumber%20%7C%20Camelot-green" /> <img src="https://img.shields.io/badge/Translation-LLM%20Enhanced-orange" /> <img src="https://img.shields.io/badge/Tests-Pytest-red" /> <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen" /> <img src="https://img.shields.io/badge/Architecture-LLM%20Search%20System-purple" /> </p>
-Overview
+
+**Overview**
 
 This project builds an automated pipeline for:
 
@@ -19,7 +20,7 @@ This project builds an automated pipeline for:
 
 
 **Key Features**
-1. End-to-End PDF Parsing Pipeline
+1. **End-to-End PDF Parsing Pipeline**
 
    1. Automatic PDF downloading
    2. Text extraction using pdfplumber
@@ -29,7 +30,7 @@ This project builds an automated pipeline for:
    6. Clean JSON outputs
    7. Robust logging
 
-2. Modular Parser Framework
+2. **Modular Parser Framework**
    1. MacroEconomicParser:	Extracts macro-economic reports (Chinese/English): Used
    2. GenericParser:	Fallback for unknown file formats: Used
    3. BulkDealParser:	Parses stock bulk deal disclosures: Not required for current task
