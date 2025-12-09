@@ -1,0 +1,50 @@
+{
+  "document_type": "macro_report",
+  "metadata": {
+    "source": "People's Bank of China",
+    "language": "zh-cn",
+    "translated": true,
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Ftiaofasi%252F144941%252F144979%252F3941920%252F5723275%252F2025052315303799529.pdf"
+  },
+  "title_cn": "",
+  "title_en": "",
+  "sections": [],
+  "tables": [
+    {
+      "title_cn": "\u589e\u53d1\u767b\u8bb0\u65f6\u9650\u7531",
+      "title_en": "The registration time limit for additional issuance is:",
+      "headers_cn": [
+        "\u589e\u53d1\u767b\u8bb0\u65f6\u9650\u7531",
+        "15",
+        "\u4e2a\u5de5\u4f5c\u65e5\u5ef6\u957f\u4e3a",
+        "30",
+        "\u4e2a\u5de5\u4f5c\u65e5\u3002\u5c06\u51cf\u6301\u767b\u8bb0"
+      ],
+      "headers_en": [
+        "The registration time limit for additional issuance is:",
+        "15",
+        "working days extended to",
+        "30",
+        "working days. Will register reduction of holdings"
+      ],
+      "rows": [
+        {
+          "\u589e\u53d1\u767b\u8bb0\u65f6\u9650\u7531": "\u65f6\u9650\u7531\u62df\u51cf\u6301\u524d",
+          "15": "20",
+          "\u4e2a\u5de5\u4f5c\u65e5\u5ef6\u957f\u4e3a": "\u4e2a\u5de5\u4f5c\u65e5\u8c03\u6574\u4e3a\u51cf\u6301\u540e",
+          "30": "30",
+          "\u4e2a\u5de5\u4f5c\u65e5\u3002\u5c06\u51cf\u6301\u767b\u8bb0": "\u4e2a\u5de5\u4f5c\u65e5\u3002\u653e\u5bbd"
+        }
+      ]
+    }
+  ],
+  "summary_en": "",
+  "data_quality": {
+    "score": 0.65,
+    "errors": [
+      "No sections detected in macro_report.",
+      "Title not extracted."
+    ],
+    "notes": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "document_type": "macro_report",
+  "metadata": {
+    "source": "People's Bank of China",
+    "language": "zh-cn",
+    "translated": true,
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Ftiaofasi%252F144941%252F144979%252F3941920%252F5780746%252F2025071514365963541.pdf"
+  },
+  "title_cn": "",
+  "title_en": "",
+  "sections": [
+    {
+      "title_cn": "1.\u5220\u53bb\u7b2c\u4e03\u6761\u7b2c\u4e00\u6b3e\u4e2d\u7684\u201c\u6216\u4e0d\u5b9a\u671f\u201d\u3002",
+      "title_en": "1. Delete \u201cor irregularly\u201d in paragraph 1 of Article 7.",
+      "body_cn": "",
+      "body_en": ""
+    },
+    {
+      "title_cn": "2.\u5c06\u7b2c\u5341\u4e00\u6761\u4e2d\u7684\u201c\u72ec\u7acb\u5ba1\u8ba1\u201d\u4fee\u6539\u4e3a\u201c\u793e\u4f1a\u5ba1\u8ba1\u201d\u3002",
+      "title_en": "2. Change \u201cindependent audit\u201d in Article 11 to \u201csocial audit\u201d.",
+      "body_cn": "",
+      "body_en": ""
+    },
+    {
+      "title_cn": "3.\u5c06\u7b2c\u4e8c\u5341\u4e5d\u6761\u7b2c\u4e00\u6b3e\u3001\u7b2c\u4e09\u5341\u4e00\u6761\u7b2c\u4e00\u6b3e\u4e2d\u7684\u201c\u672c\u884c\uff08\u8425",
+      "title_en": "3. Change the words \u201cthe Bank (business)\u201d in Paragraph 1 of Article 29 and Paragraph 1 of Article 31",
+      "body_cn": "\u4e1a\u7ba1\u7406\u90e8\uff09\u884c\u957f\uff08\u4e3b\u4efb\uff09\u201d\u4fee\u6539\u4e3a\u201c\u672c\u884c\u884c\u957f\u201d\uff0c\u201c\u5206\u7ba1\u526f\u884c\u957f\uff08\u526f\n\u4e3b\u4efb\uff09\u201d\u4fee\u6539\u4e3a\u201c\u5206\u7ba1\u526f\u884c\u957f\u201d\u3002\n8",
+      "body_en": "\"President (Director) of the Industrial Management Department)\" was changed to \"President of the Bank\", and \"Deputy President in Charge (Deputy\nDirector)\u201d was changed to \u201cVice President in Charge\u201d.\n8"
+    },
+    {
+      "title_cn": "4.\u5c06\u7b2c\u4e09\u5341\u56db\u6761\u4e2d\u7684\u201c\u76d1\u7ba1\u4eba\u5458\u201d\u4fee\u6539\u4e3a\u201c\u5de5\u4f5c\u4eba\u5458\u201d\u3002",
+      "title_en": "4. Change \"supervisory personnel\" in Article 34 to \"staff\".",
+      "body_cn": "",
+      "body_en": ""
+    },
+    {
+      "title_cn": "5.\u5220\u9664\u9644\u4ef6 1 \u81f3\u9644\u4ef6 3 \u4e2d\u7684\u201c\u73b0\u573a\u98ce\u9669\u8bc4\u4f30\u201d\u3002",
+      "title_en": "5. Delete \u201cOnsite Risk Assessment\u201d in Attachments 1 to 3.",
+      "body_cn": "",
+      "body_en": ""
+    },
+    {
+      "title_cn": "6.\u6b64\u5916\uff0c\u5bf9\u6761\u6587\u5e8f\u53f7\u4f5c\u4e86\u76f8\u5e94\u8c03\u6574\u3002",
+      "title_en": "6. In addition, the serial numbers of the articles have been adjusted accordingly.",
+      "body_cn": "\u4e09\u3001\u5e9f\u6b62\u300a\u91d1\u878d\u673a\u6784\u53cd\u6d17\u94b1\u89c4\u5b9a\u300b\uff08\u4e2d\u56fd\u4eba\u6c11\u94f6\u884c\u4ee4\u30142006\u3015\n\u7b2c 1 \u53f7\uff09\n\u672c\u51b3\u5b9a\u81ea 2025 \u5e74 XX \u6708 XX \u65e5\u8d77\u65bd\u884c\u3002\n9",
+      "body_en": "3. Abolition of the \"Anti-Money Laundering Regulations for Financial Institutions\" (Order of the People's Bank of China [2006]\nNo. 1)\nThis decision will be effective from XX, XX, 2025.\n9"
+    }
+  ],
+  "tables": [],
+  "summary": "Annex 1",
+  "data_quality": {
+    "score": 0.65,
+    "errors": [
+      "{'type': 'missing', 'loc': ('sections', 0, 'heading_cn'), 'msg': 'Field required', 'input': {'title_cn': '1.\u5220\u53bb\u7b2c\u4e03\u6761\u7b2c\u4e00\u6b3e\u4e2d\u7684\u201c\u6216\u4e0d\u5b9a\u671f\u201d\u3002', 'title_en': '1. Delete \u201cor irregularly\u201d in paragraph 1 of Article 7.', 'body_cn': '', 'body_en': ''}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 0, 'heading_en'), 'msg': 'Field required', 'input': {'title_cn': '1.\u5220\u53bb\u7b2c\u4e03\u6761\u7b2c\u4e00\u6b3e\u4e2d\u7684\u201c\u6216\u4e0d\u5b9a\u671f\u201d\u3002', 'title_en': '1. Delete \u201cor irregularly\u201d in paragraph 1 of Article 7.', 'body_cn': '', 'body_en': ''}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 1, 'heading_cn'), 'msg': 'Field required', 'input': {'title_cn': '2.\u5c06\u7b2c\u5341\u4e00\u6761\u4e2d\u7684\u201c\u72ec\u7acb\u5ba1\u8ba1\u201d\u4fee\u6539\u4e3a\u201c\u793e\u4f1a\u5ba1\u8ba1\u201d\u3002', 'title_en': '2. Change \u201cindependent audit\u201d in Article 11 to \u201csocial audit\u201d.', 'body_cn': '', 'body_en': ''}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 1, 'heading_en'), 'msg': 'Field required', 'input': {'title_cn': '2.\u5c06\u7b2c\u5341\u4e00\u6761\u4e2d\u7684\u201c\u72ec\u7acb\u5ba1\u8ba1\u201d\u4fee\u6539\u4e3a\u201c\u793e\u4f1a\u5ba1\u8ba1\u201d\u3002', 'title_en': '2. Change \u201cindependent audit\u201d in Article 11 to \u201csocial audit\u201d.', 'body_cn': '', 'body_en': ''}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 2, 'heading_cn'), 'msg': 'Field required', 'input': {'title_cn': '3.\u5c06\u7b2c\u4e8c\u5341\u4e5d\u6761\u7b2c\u4e00\u6b3e\u3001\u7b2c\u4e09\u5341\u4e00\u6761\u7b2c\u4e00\u6b3e\u4e2d\u7684\u201c\u672c\u884c\uff08\u8425', 'title_en': '3. Change the words \u201cthe Bank (business)\u201d in Paragraph 1 of Article 29 and Paragraph 1 of Article 31', 'body_cn': '\u4e1a\u7ba1\u7406\u90e8\uff09\u884c\u957f\uff08\u4e3b\u4efb\uff09\u201d\u4fee\u6539\u4e3a\u201c\u672c\u884c\u884c\u957f\u201d\uff0c\u201c\u5206\u7ba1\u526f\u884c\u957f\uff08\u526f\\n\u4e3b\u4efb\uff09\u201d\u4fee\u6539\u4e3a\u201c\u5206\u7ba1\u526f\u884c\u957f\u201d\u3002\\n8', 'body_en': '\"President (Director) of the Industrial Management Department)\" was changed to \"President of the Bank\", and \"Deputy President in Charge (Deputy\\nDirector)\u201d was changed to \u201cVice President in Charge\u201d.\\n8'}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 2, 'heading_en'), 'msg': 'Field required', 'input': {'title_cn': '3.\u5c06\u7b2c\u4e8c\u5341\u4e5d\u6761\u7b2c\u4e00\u6b3e\u3001\u7b2c\u4e09\u5341\u4e00\u6761\u7b2c\u4e00\u6b3e\u4e2d\u7684\u201c\u672c\u884c\uff08\u8425', 'title_en': '3. Change the words \u201cthe Bank (business)\u201d in Paragraph 1 of Article 29 and Paragraph 1 of Article 31', 'body_cn': '\u4e1a\u7ba1\u7406\u90e8\uff09\u884c\u957f\uff08\u4e3b\u4efb\uff09\u201d\u4fee\u6539\u4e3a\u201c\u672c\u884c\u884c\u957f\u201d\uff0c\u201c\u5206\u7ba1\u526f\u884c\u957f\uff08\u526f\\n\u4e3b\u4efb\uff09\u201d\u4fee\u6539\u4e3a\u201c\u5206\u7ba1\u526f\u884c\u957f\u201d\u3002\\n8', 'body_en': '\"President (Director) of the Industrial Management Department)\" was changed to \"President of the Bank\", and \"Deputy President in Charge (Deputy\\nDirector)\u201d was changed to \u201cVice President in Charge\u201d.\\n8'}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 3, 'heading_cn'), 'msg': 'Field required', 'input': {'title_cn': '4.\u5c06\u7b2c\u4e09\u5341\u56db\u6761\u4e2d\u7684\u201c\u76d1\u7ba1\u4eba\u5458\u201d\u4fee\u6539\u4e3a\u201c\u5de5\u4f5c\u4eba\u5458\u201d\u3002', 'title_en': '4. Change \"supervisory personnel\" in Article 34 to \"staff\".', 'body_cn': '', 'body_en': ''}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 3, 'heading_en'), 'msg': 'Field required', 'input': {'title_cn': '4.\u5c06\u7b2c\u4e09\u5341\u56db\u6761\u4e2d\u7684\u201c\u76d1\u7ba1\u4eba\u5458\u201d\u4fee\u6539\u4e3a\u201c\u5de5\u4f5c\u4eba\u5458\u201d\u3002', 'title_en': '4. Change \"supervisory personnel\" in Article 34 to \"staff\".', 'body_cn': '', 'body_en': ''}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 4, 'heading_cn'), 'msg': 'Field required', 'input': {'title_cn': '5.\u5220\u9664\u9644\u4ef6 1 \u81f3\u9644\u4ef6 3 \u4e2d\u7684\u201c\u73b0\u573a\u98ce\u9669\u8bc4\u4f30\u201d\u3002', 'title_en': '5. Delete \u201cOnsite Risk Assessment\u201d in Attachments 1 to 3.', 'body_cn': '', 'body_en': ''}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 4, 'heading_en'), 'msg': 'Field required', 'input': {'title_cn': '5.\u5220\u9664\u9644\u4ef6 1 \u81f3\u9644\u4ef6 3 \u4e2d\u7684\u201c\u73b0\u573a\u98ce\u9669\u8bc4\u4f30\u201d\u3002', 'title_en': '5. Delete \u201cOnsite Risk Assessment\u201d in Attachments 1 to 3.', 'body_cn': '', 'body_en': ''}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 5, 'heading_cn'), 'msg': 'Field required', 'input': {'title_cn': '6.\u6b64\u5916\uff0c\u5bf9\u6761\u6587\u5e8f\u53f7\u4f5c\u4e86\u76f8\u5e94\u8c03\u6574\u3002', 'title_en': '6. In addition, the serial numbers of the articles have been adjusted accordingly.', 'body_cn': '\u4e09\u3001\u5e9f\u6b62\u300a\u91d1\u878d\u673a\u6784\u53cd\u6d17\u94b1\u89c4\u5b9a\u300b\uff08\u4e2d\u56fd\u4eba\u6c11\u94f6\u884c\u4ee4\u30142006\u3015\\n\u7b2c 1 \u53f7\uff09\\n\u672c\u51b3\u5b9a\u81ea 2025 \u5e74 XX \u6708 XX \u65e5\u8d77\u65bd\u884c\u3002\\n9', 'body_en': '3. Abolition of the \"Anti-Money Laundering Regulations for Financial Institutions\" (Order of the People\\'s Bank of China [2006]\\nNo. 1)\\nThis decision will be effective from XX, XX, 2025.\\n9'}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "{'type': 'missing', 'loc': ('sections', 5, 'heading_en'), 'msg': 'Field required', 'input': {'title_cn': '6.\u6b64\u5916\uff0c\u5bf9\u6761\u6587\u5e8f\u53f7\u4f5c\u4e86\u76f8\u5e94\u8c03\u6574\u3002', 'title_en': '6. In addition, the serial numbers of the articles have been adjusted accordingly.', 'body_cn': '\u4e09\u3001\u5e9f\u6b62\u300a\u91d1\u878d\u673a\u6784\u53cd\u6d17\u94b1\u89c4\u5b9a\u300b\uff08\u4e2d\u56fd\u4eba\u6c11\u94f6\u884c\u4ee4\u30142006\u3015\\n\u7b2c 1 \u53f7\uff09\\n\u672c\u51b3\u5b9a\u81ea 2025 \u5e74 XX \u6708 XX \u65e5\u8d77\u65bd\u884c\u3002\\n9', 'body_en': '3. Abolition of the \"Anti-Money Laundering Regulations for Financial Institutions\" (Order of the People\\'s Bank of China [2006]\\nNo. 1)\\nThis decision will be effective from XX, XX, 2025.\\n9'}, 'url': 'https://errors.pydantic.dev/2.12/v/missing'}",
+      "No tables detected/extracted.",
+      "Title not extracted."
+    ],
+    "notes": []
+  }
+}

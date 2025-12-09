@@ -1,0 +1,74 @@
+{
+  "document_type": "macro_report",
+  "metadata": {
+    "source": "People's Bank of China",
+    "language": "zh-cn",
+    "translated": true,
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Ftiaofasi%252F144941%252F144979%252F3941920%252F5650333%252F2025040116165345948.pdf"
+  },
+  "title_cn": "",
+  "title_en": "",
+  "sections": [],
+  "tables": [
+    {
+      "title_cn": "\u8f83\u9ad8\u3001\u8d44\u91d1\u5212\u8f6c\u989d\u5ea6\u9ad8\u3001\u4fbf\u5229\u5ea6\u9ad8\u30022021",
+      "title_en": "It is relatively high, with high fund transfer limit and high convenience. 2021",
+      "headers_cn": [
+        "\u8f83\u9ad8\u3001\u8d44\u91d1\u5212\u8f6c\u989d\u5ea6\u9ad8\u3001\u4fbf\u5229\u5ea6\u9ad8\u30022021",
+        "\u5e74",
+        "3",
+        "\u6708\uff0c\u5728\u5317\u4eac\u3001"
+      ],
+      "headers_en": [
+        "It is relatively high, with high fund transfer limit and high convenience. 2021",
+        "Year",
+        "3",
+        "month, in Beijing,"
+      ],
+      "rows": [
+        {
+          "\u8f83\u9ad8\u3001\u8d44\u91d1\u5212\u8f6c\u989d\u5ea6\u9ad8\u3001\u4fbf\u5229\u5ea6\u9ad8\u30022021": "\u6df1\u5733\u4e24\u5730\u5404\u9009\u62e9",
+          "\u5e74": "\u6df1\u5733\u4e24\u5730\u5404\u9009\u62e9",
+          "3": "5",
+          "\u6708\uff0c\u5728\u5317\u4eac\u3001": "\u5bb6\u4fe1\u7528\u7b49\u7ea7\u8f83\u9ad8\u7684\u5927\u578b\u8de8\u56fd\u516c\u53f8\u8fdb\u884c\u8bd5"
+        },
+        {
+          "\u8f83\u9ad8\u3001\u8d44\u91d1\u5212\u8f6c\u989d\u5ea6\u9ad8\u3001\u4fbf\u5229\u5ea6\u9ad8\u30022021": "\u70b9\uff0c\u5e76\u4e8e",
+          "\u5e74": "2022",
+          "3": "\u5e74\u5347\u7ea7\u6269\u56f4\u81f3",
+          "\u6708\uff0c\u5728\u5317\u4eac\u3001": "8+\u201c2\u201d\u4e2a\u5730\u533a\uff0c\u5305\u62ec\u4e0a\u6d77\u3001\u5317"
+        }
+      ]
+    },
+    {
+      "title_cn": "\u6df1\u5733\u4e24\u5730\u5404\u9009\u62e9",
+      "title_en": "Choose between Shenzhen and Shenzhen",
+      "headers_cn": [
+        "\u6df1\u5733\u4e24\u5730\u5404\u9009\u62e9",
+        "5",
+        "\u5bb6\u4fe1\u7528\u7b49\u7ea7\u8f83\u9ad8\u7684\u5927\u578b\u8de8\u56fd\u516c\u53f8\u8fdb\u884c\u8bd5"
+      ],
+      "headers_en": [
+        "Choose between Shenzhen and Shenzhen",
+        "5",
+        "A large multinational company with a high credit rating conducted a trial"
+      ],
+      "rows": [
+        {
+          "\u6df1\u5733\u4e24\u5730\u5404\u9009\u62e9": "\u70b9\uff0c\u5e76\u4e8e 2022",
+          "5": "\u5e74\u5347\u7ea7\u6269\u56f4\u81f3",
+          "\u5bb6\u4fe1\u7528\u7b49\u7ea7\u8f83\u9ad8\u7684\u5927\u578b\u8de8\u56fd\u516c\u53f8\u8fdb\u884c\u8bd5": "8+\u201c2\u201d\u4e2a\u5730\u533a\uff0c\u5305\u62ec\u4e0a\u6d77\u3001\u5317"
+        }
+      ]
+    }
+  ],
+  "summary_en": "",
+  "data_quality": {
+    "score": 0.65,
+    "errors": [
+      "No sections detected in macro_report.",
+      "Title not extracted."
+    ],
+    "notes": []
+  }
+}

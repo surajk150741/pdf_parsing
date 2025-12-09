@@ -1,0 +1,23 @@
+{
+  "document_type": "macro_report",
+  "metadata": {
+    "source": "People's Bank of China",
+    "language": "zh-cn",
+    "translated": true,
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Ftiaofasi%252F144941%252F144979%252F3941920%252F5784671%252F2025071815160312109.pdf"
+  },
+  "title_cn": "",
+  "title_en": "",
+  "sections": [],
+  "tables": [],
+  "summary_en": "",
+  "data_quality": {
+    "score": 0.4,
+    "errors": [
+      "No sections detected in macro_report.",
+      "No tables detected/extracted.",
+      "Title not extracted."
+    ],
+    "notes": []
+  }
+}
