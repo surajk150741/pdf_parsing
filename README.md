@@ -97,4 +97,4 @@ Every processed file generates:
 
 **Search System Architecture**
 
-- A full solution is documented and a flow chart is drawn in following miro flaw chat board: **[pdf_parser_board]([https://github.com/your-repo-link-here](https://miro.com/welcomeonboard/QkJSOWlBQzNCNVM1WG1RSFJiOFdsVjlWMDdGU3kvaG1qUWh0TFN2cnJvQ2VtYjg5bWJaUitWWG5GekdjRHQvT3g4WnNtOGl1WitOOVpzcW5yWC9UOGNUOFVOVjlzV1k0cktIZHk3M2c0bDZ6R3hJNmpjaTlObVlUaW9JVXcvajByVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=798986267253))**
+- A full solution is documented and a flow chart is drawn in following miro flaw chat board: **[pdf_parser_board](https://miro.com/welcomeonboard/QkJSOWlBQzNCNVM1WG1RSFJiOFdsVjlWMDdGU3kvaG1qUWh0TFN2cnJvQ2VtYjg5bWJaUitWWG5GekdjRHQvT3g4WnNtOGl1WitOOVpzcW5yWC9UOGNUOFVOVjlzV1k0cktIZHk3M2c0bDZ6R3hJNmpjaTlObVlUaW9JVXcvajByVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=798986267253)**
